@@ -1,0 +1,7 @@
+N,P,K,temperature,humidity,ph,rainfall,recommended_crop,confidence_score,confidence_percent
+90,42,43,20.88,82.0,6.5,202.94,rice,0.9,90.0
+20,130,200,22.0,92.0,6.0,110.0,apple,1.0,100.0
+100,20,30,25.0,60.0,6.7,160.0,coffee,1.0,100.0
+40,68,79,18.5,17.0,7.3,78.0,chickpea,1.0,100.0
+120,45,20,24.0,80.0,6.9,80.0,cotton,1.0,100.0
+100,18,50,26.0,85.0,6.5,50.0,watermelon,1.0,100.0
